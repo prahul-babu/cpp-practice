@@ -1,5 +1,9 @@
 //This program counts the number of digits in a given integer using a function.
-// The function `count_digits` takes an integer as input and returns the count of digits in that integer. The main function prompts the user to enter a number, calls the `count_digits` function, and displays the result.
+
+// The function `count_digits` takes an integer as input and returns the count of 
+//digits in that integer. 
+//The main function prompts the user to enter a number, 
+//calls the `count_digits` function, and displays the result.
 
 
 // Function to count the number of digits in an integer
